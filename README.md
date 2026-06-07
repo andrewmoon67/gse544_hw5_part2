@@ -1,6 +1,7 @@
 # GSE 544 — Homework 5, Part 2
 
 **A Copula/NCO Horse Race Under Realistic Constraints**
+claude.ai and the 544_Notebooks were used to assist this homework.
 
 ## Contents
 
